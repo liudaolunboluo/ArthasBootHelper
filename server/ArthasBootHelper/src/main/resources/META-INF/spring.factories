@@ -1,0 +1,3 @@
+#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+#  com.fiture.content.extension.controller.ContentExtensionController,\
+#  com.fiture.content.extension.service.ContentExtensionService
